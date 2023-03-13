@@ -3,10 +3,10 @@
 Get all the related domains and subdomains using [crt.sh](https://crt.sh/).
 
 ## Installation
-To install, use the following command:
+If you have Go installed and configured (i.e. with $GOPATH/bin in your $PATH):
 
 ```bash
-▶ go install github.com/shivamsaraswat/crt_sh_go@latest
+▶ go get -u github.com/shivamsaraswat/crt_sh_go
 ```
 
 # Using the crt.sh Domain Finder
